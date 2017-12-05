@@ -1,7 +1,7 @@
 RoundLabelTextView
 ==============================================================
 
-![Alt text](https://github.com/NamelessPeople/RoundLabelTextView/srceenshots/screen1.jpg)
+![image](https://github.com/NamelessPeople/RoundLabelTextView/srceenshots/screen2.png)
 
 #example
 
