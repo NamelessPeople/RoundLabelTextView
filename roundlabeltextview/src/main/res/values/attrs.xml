@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundLabelTextView">
+
+        <attr name="backGroundColor" format="color" />
+        <attr name="labelLength" format="dimension" />
+        <attr name="textFlip" format="boolean" />
+        <attr name="radius" format="dimension" />
+        <attr name="angle" format="integer" />
+
+        <attr name="contentTextSize" format="dimension" />
+        <attr name="contentMarginStart" format="dimension" />
+        <attr name="contentMarginBottom" format="dimension" />
+        <attr name="contentTextColor" format="color" />
+        <attr name="contentText" format="string" />
+
+        <attr name="contentTextStyle">
+            <enum name="normal" value="0" />
+            <enum name="italic" value="1" />
+            <enum name="bold" value="2" />
+        </attr>
+
+        <attr name="topTextSize" format="dimension" />
+        <attr name="topTextColor" format="color" />
+        <attr name="topMarginStart" format="dimension" />
+        <attr name="topMarginBottom" format="dimension" />
+        <attr name="topText" format="string" />
+
+        <attr name="topTextStyle">
+            <enum name="normal" value="0" />
+            <enum name="italic" value="1" />
+            <enum name="bold" value="2" />
+        </attr>
+
+
+    </declare-styleable>
+</resources>

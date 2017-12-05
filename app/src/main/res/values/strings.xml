@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoundLabelView</string>
+    <string name="top_name">top_name</string>
+    <string name="content_name">content_name</string>
+</resources>
