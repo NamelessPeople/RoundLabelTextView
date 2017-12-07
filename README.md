@@ -26,6 +26,7 @@ RoundLabelTextView
 	1.该变量控制label的方向，angle=1在右上方（即第一象限）angle=2在左上方（即第二象限）依次类推；
 	2.标签在第三第四象限的时候，文字处于颠倒状态，设置textFlip="true"文字旋转180度，textFlip="false"不旋转；
 	3.Margin可以为+-；
+	4.label大小由labelLength来决定；
 
 	
 [![](https://www.jitpack.io/v/NamelessPeople/RoundLabelTextView.svg)](https://www.jitpack.io/#NamelessPeople/RoundLabelTextView)
