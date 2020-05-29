@@ -39,5 +39,5 @@ RoundLabelTextView
 	}
 
 	dependencies {
-	        compile 'com.github.NamelessPeople:RoundLabelTextView:1.0'
+	     implementation 'com.github.NamelessPeople:RoundLabelTextView:1.1'
 	}
