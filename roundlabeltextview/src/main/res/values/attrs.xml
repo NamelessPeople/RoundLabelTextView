@@ -6,7 +6,6 @@
         <attr name="labelLength" format="dimension" />
         <attr name="textFlip" format="boolean" />
         <attr name="radius" format="dimension" />
-        <attr name="angle" format="integer" />
 
         <attr name="contentTextSize" format="dimension" />
         <attr name="contentMarginStart" format="dimension" />
@@ -31,7 +30,13 @@
             <enum name="italic" value="1" />
             <enum name="bold" value="2" />
         </attr>
-
+        <attr name="angle">
+            <flag name="all" value="15" />
+            <flag name="topRight" value="1" />
+            <flag name="topLeft" value="2" />
+            <flag name="bottomLeft" value="3" />
+            <flag name="bottomRight" value="4" />
+        </attr>
 
     </declare-styleable>
 </resources>

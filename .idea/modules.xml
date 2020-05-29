@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RoundLabelTextView.iml" filepath="$PROJECT_DIR$/RoundLabelTextView.iml" group="RoundLabelTextView" />
+      <module fileurl="file://$PROJECT_DIR$/app/RoundLabelTextView-app.iml" filepath="$PROJECT_DIR$/app/RoundLabelTextView-app.iml" group="RoundLabelTextView/app" />
+      <module fileurl="file://$PROJECT_DIR$/roundlabeltextview/RoundLabelTextView-roundlabeltextview.iml" filepath="$PROJECT_DIR$/roundlabeltextview/RoundLabelTextView-roundlabeltextview.iml" group="RoundLabelTextView/roundlabeltextview" />
       <module fileurl="file://$PROJECT_DIR$/RoundLabelView.iml" filepath="$PROJECT_DIR$/RoundLabelView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/roundlabeltextview/roundlabeltextview.iml" filepath="$PROJECT_DIR$/roundlabeltextview/roundlabeltextview.iml" />

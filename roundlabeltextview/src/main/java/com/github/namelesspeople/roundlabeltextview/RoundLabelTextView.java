@@ -9,9 +9,10 @@ import android.graphics.Path;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.graphics.Typeface;
-import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
+
+import androidx.annotation.Nullable;
 
 /**
  * Created by namelesspeople on 2017/12/1
@@ -19,33 +20,27 @@ import android.view.View;
 
 public class RoundLabelTextView extends View {
 
-
-    float labelLength;
-
-    float radius;
-    int backGroundColor;
-
-    int contentTextColor;
-    float contentTextSize;
-    float contentMarginStart;
-    float contentMarginBottom;
-    float contentTextHeight;
-    float contentTextWidth;
-    int contentTextStyle;
-    String contentText;
-
-
-    float topTextSize;
-    int topTextColor;
-    float topMarginStart;
-    float topMarginBottom;
-    float topTextHeight;
-    float topTextWidth;
-    String topText;
-    int topTextStyle;
-    int angle;
-
-    boolean textFlip;
+    private float labelLength;
+    private float radius;
+    private int backGroundColor;
+    private int contentTextColor;
+    private float contentTextSize;
+    private float contentMarginStart;
+    private float contentMarginBottom;
+    private float contentTextHeight;
+    private float contentTextWidth;
+    private int contentTextStyle;
+    private String contentText;
+    private float topTextSize;
+    private int topTextColor;
+    private float topMarginStart;
+    private  float topMarginBottom;
+    private float topTextHeight;
+    private  float topTextWidth;
+    private String topText;
+    private int topTextStyle;
+    private int angle;
+    private boolean textFlip;
 
 
     public RoundLabelTextView(Context context) {
